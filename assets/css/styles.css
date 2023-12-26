@@ -883,7 +883,7 @@ body.dark-theme {
     justify-content: space-between;
   }
   .footer__copy {
-    margin-top: 7rem;
+    margin-top: -30px;
   }
   .footer__img1, 
   .footer__img2 {
@@ -1069,3 +1069,4 @@ body.dark-theme {
     box-shadow: 0px 4.66667px 24px 3px rgba(247, 0, 148, 0.2);
   }
 }
+
